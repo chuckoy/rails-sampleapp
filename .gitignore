@@ -9,6 +9,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+spring/*.pid
 
 ## Specific to RubyMotion:
 .dat*
