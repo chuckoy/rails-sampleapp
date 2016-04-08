@@ -5,4 +5,4 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-Hosted on [Heroku](http://infinite-bastion-52641.herokuapp.com/)
+Hosted on [Heroku](http://infinite-bastion-52641.herokuapp.com/).
