@@ -37,5 +37,4 @@ build/
 .rvmrc
 
 /log/
-/config/secrets.yml
 /.bundle/
